@@ -3,15 +3,15 @@ import './style.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 const Notes = () => {
-  return <>HI</>;
+  return <>Notes Page</>;
 };
 
 const Users = () => {
-  return <>HppI</>;
+  return <>Users Page</>;
 };
 
 const Home = () => {
-  return <>pop</>;
+  return <>Home Page</>;
 };
 
 
